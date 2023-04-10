@@ -2,4 +2,4 @@
 
  - Collect data as in Data.xls format
  -  Import collected data to matlab  with import tool
- -  Run the script
+ -  Run the curvatureV2.m script
