@@ -1,6 +1,7 @@
 # Steering Map
 
- - Collect data as in Data.xls format
+ - Collect data as in Data.xls format, ascending steering angle
+ - Open "curvatureV2.m"
  -  Import collected data to matlab  with import tool
  -  Run the script
  
